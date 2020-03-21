@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Is this Essential?`,
+    title: `Is This Essential?`,
     description: `Check to see what stores are open.`,
     author: `@gatsbyjs`,
   },

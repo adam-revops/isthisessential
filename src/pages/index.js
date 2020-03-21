@@ -23,7 +23,7 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`covid-19`, `essential`, ``]} />
 
     <Homepage>
-      <h1>Is this essential?</h1>
+      <h1>Is This Essential?</h1>
       <Ruler />
       <Search />
 
