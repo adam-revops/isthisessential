@@ -5,6 +5,8 @@
   "author": "Adam Ballai <adam@revops.io>",
   "contributors": [],
   "dependencies": {
+    "@appbaseio/reactivemaps": "^3.0.0-beta.4",
+    "@appbaseio/reactivesearch": "^3.6.1",
     "@emotion/core": "^10.0.7",
     "@emotion/styled": "^10.0.7",
     "emotion-theming": "^10.0.7",
@@ -25,7 +27,9 @@
     "redux": "^4.0.1"
   },
   "keywords": [
-    "gatsby", "redux", "emotion"
+    "gatsby",
+    "redux",
+    "emotion"
   ],
   "license": "MIT",
   "scripts": {

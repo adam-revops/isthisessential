@@ -11,7 +11,7 @@ const Hamburger = styled.span`
 const Line = styled.span`
   width: 40px;
   height: 4px;
-  background-color: white;
+  background-color: black;
   display: block;
   margin: 9px auto;
   transition: transform 0.3s ease-in-out;

@@ -4,12 +4,12 @@
 
 const palette = {
   primary: {
-    contrast: 'white',
-    main: '#6c2e9c',
+    contrast: 'orange',
+    main: 'white',
   },
   secondary: {
     contrast: '#aaa',
-    main: '#242424',
+    main: '#black',
     dark: '#181818',
   },
 };
